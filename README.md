@@ -1,2 +1,2 @@
 # ShellsCollection
-Write or Collect shells that commonly used in daily work.
+write or collect shell files that commonly used in daily work. 
